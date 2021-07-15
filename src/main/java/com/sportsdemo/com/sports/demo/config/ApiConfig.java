@@ -45,7 +45,7 @@ public class ApiConfig {
                 .baseUrl(BASE_URL)
                 .clientConnector(connector)
                 .defaultHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE)
-                .defaultHeader("apiKey", "f09e8a20-e32e-11eb-97dd-d377f4b6bc1c")
+                .defaultHeader("apiKey", "add key")
                 .build();
     }
 
